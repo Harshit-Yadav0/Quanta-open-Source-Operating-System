@@ -1,6 +1,7 @@
 // kernel.c
 // Minimal educational kernel foundation
 
+#include "kernel.h"
 typedef unsigned char  u8;
 typedef unsigned short u16;
 typedef unsigned int   u32;
